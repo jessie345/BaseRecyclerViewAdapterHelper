@@ -2,7 +2,7 @@
     <string name="app_name">BRVAH</string>
     <string name="title_activity_header_and_footer_use">HeaderAndFooterUseActivity</string>
     <string name="error">Network error</string>
-    <string name="network_err">Simulation network error</string>
-    <string name="empty_network_error">Network error, Click Retry</string>
-    <string name="empty_no_data">There is no data, Click Retry</string>
+    <string name="network_err">请检查您的网络链接是否正常</string>
+    <string name="empty_network_error">网络错误, 请点击重试</string>
+    <string name="empty_no_data">暂无数据, 请点击重试</string>
 </resources>
